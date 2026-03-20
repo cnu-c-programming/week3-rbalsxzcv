@@ -14,7 +14,7 @@ int main() {
     return 0;
 }
 void print() {
-    printf("Welcome to Computer Programing 03 Lab!\n");
+    printf("Welcome to Computer Programming 03 Lab!\n");
 }
 
 int square(int n){
